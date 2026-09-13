@@ -27,7 +27,6 @@ A full-stack dynamic web application for a fictional restaurant built with **PHP
 
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
-- [Screenshots](#-screenshots)
 - [Folder Structure](#-folder-structure)
 - [Database Schema](#-database-schema)
 - [Installation](#-installation)
@@ -129,28 +128,6 @@ A full-stack dynamic web application for a fictional restaurant built with **PHP
 | **Local Dev** | XAMPP (Apache + MySQL + PHP) |
 | **Live Host** | InfinityFree |
 | **Version Control** | Git + GitHub |
-
----
-
-## 📸 Screenshots
-
-| Homepage | Menu |
-|---|---|
-| ![Homepage](docs/screenshots/home.png) | ![Menu](docs/screenshots/menu.png) |
-
-| Payment Page | Order Tracking |
-|---|---|
-| ![Payment](docs/screenshots/payment.png) | ![Tracking](docs/screenshots/tracking.png) |
-
-| Admin Dashboard | Live Orders |
-|---|---|
-| ![Admin Dashboard](docs/screenshots/admin-dashboard.png) | ![Live Orders](docs/screenshots/live-orders.png) |
-
-| Manage Menu | Reviews |
-|---|---|
-| ![Manage Menu](docs/screenshots/manage-menu.png) | ![Reviews](docs/screenshots/reviews.png) |
-
-> Replace the image paths above with actual screenshots in a `docs/screenshots/` folder.
 
 ---
 
